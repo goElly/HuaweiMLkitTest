@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890001000000000755",
+		"product_id":"736430079244514867",
+		"client_id":"386017924973855872",
+		"client_secret":"0D64DCC3BE9C7142962AF13F2EEE73DF32F9825828BFA6F1D171148179BAD19D",
+		"app_id":"102407487",
+		"package_name":"com.huawei.phototranslationdemo",
+		"api_key":"CV8P87DqtGoP+XPW7M/1oNtMFtJEOFCC4OsagCYfai/2yWory/+owTC+aT7PFmuBlLKp4iXj2zIpgCV5gwLn5kpal3k9"
+	},
+	"configuration_version":"1.0"
+}
